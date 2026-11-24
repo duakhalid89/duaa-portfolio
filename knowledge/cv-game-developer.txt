@@ -1,0 +1,149 @@
+                          DUAA KHALID
+
+                                  Game Developer | Unity & Unreal Engine
+
+          Karachi, Pakistan | kduaa0791@gmail.com | +92 325 362 2741 | linkedin.com/in/duaa-khalid-1b7964351
+
+PROFESSIONAL SUMMARY
+
+Game Developer and Computer Science student at NED University (Specialization: Game Development & Animation)
+with hands-on industry internship experience and a portfolio of 10+ playable games across 2D, 3D, VR, multiplayer and
+mobile. Proficient in Unity (C#) and Unreal Engine, with experience in gameplay programming, level design, multiplayer
+backends and game-jam development. Award-winning competitor: Second Prize at GameCon 2026.
+
+ACADEMIC BACKGROUND
+
+Degree             Field of Study                Institution                    Country   Date
+                                                                                Pakistan
+BS (Bachelor of    Computer Science              NED University of Engineering            Sep 2023 - May 2027
+Science)           (Specialization: Game         & Technology, Karachi                    (Expected; currently 7th
+                   Development & Animation)                                               semester)
+
+CGPA: 3.401 / 4.0
+
+INDUSTRIAL & PROFESSIONAL EXPERIENCE
+
+Position                           Organization                        Department         Period
+
+Game Developer Intern              The Game Storm Studios Karachi      Game Development   Jun 2026 - Aug 2026
+                                   Ltd.
+
+Game Developer Intern              TreeObit Studios, Lahore            Game Development   Jan 2026 - Apr 2026
+
+Freelance Game & Backend           Self-employed (Freelance contract)  Game & Backend     Jul 2026 (1-month
+Developer (Multiplayer Ludo                                            Development        contract)
+Game)
+
+Web Development Intern             NED University of Engineering &     Computer Science   2025
+(Academic Project)                 Technology
+
+The Game Storm Studios Karachi Ltd. -- Game Developer Intern
+· Contributed to a hyper-casual mobile game across level design, gameplay programming, game design, and audio
+
+    integration.
+
+TreeObit Studios, Lahore -- Game Developer Intern
+· Developed core gameplay systems for a 3D car racing game, including environment integration, waypoint systems,
+
+    game logic/programming, and win/loss conditions.
+· Built a Solitaire card game from scratch, implementing complete game logic across multiple progressive levels.
+
+Freelance -- Multiplayer Ludo Game
+· Delivered a multiplayer Ludo game end-to-end under a 1-month freelance contract, building the Unity front end and a
+
+    Node.js/Laravel backend for real-time multiplayer functionality.
+
+NED University -- Game Design & Simulation (2023 - Present)
+· Designed, developed and presented playable game prototypes in small teams across multiple semesters.
+· Applied OOP principles and physics simulation through coursework spanning 2D, 3D, VR and multiplayer titles.
+
+NED University -- Web Development Intern (Academic Project)
+· Built the MS Admission Dashboard (HTML/CSS/JS, PHP, SQL), automating specialization assignment for graduate
+
+    applicants via score-based backend logic and full database connectivity.
+
+GAME JAMS, HACKATHONS & COMPETITIONS
+
+· GameCon 2026, NED University -- Second Prize. Developed Unbroken Oath, a first-person shooter game, in a
+    team competition.
+
+· IBA Gaming Competition. Developed Portal Breach as part of a competing team.
+· Global Game Jam. Created Mask Regime, a real-time 2-player multiplayer race-and-compete game, within the jam's
+
+    time limit.
+
+GAME PROJECTS
+
+· Unbroken Oath -- First-person shooter game built in Unity (C#) for GameCon 2026 at NED University; awarded Second Prize.
+· Portal Breach -- Game developed for the IBA Gaming Competition.
+· Mask Regime -- Real-time 2-player multiplayer racing/competition game built in Unity (C#) at Global Game Jam,
+    focused on networked gameplay.
+
+· Escape Room VR -- VR puzzle experience built in Unity (C#) in which players solve riddles to escape a locked room.
+· Abduction -- 3D adventure game (Unity, C#) where the player escapes an asylum by solving puzzles and defeating
+
+    enemies.
+· Jumbo Jump -- 2D platformer (Unity, C#) with coins, power-ups, enemies and a full health system.
+· Sunny Land -- 2D platformer (Unity, C#) with smooth gameplay, coin collection and enemy avoidance.
+· Snake Game -- Classic game (C++, DSA) using data structures for efficient movement and collision handling.
+· Cyber Cafe Management -- Desktop GUI system (C++, SFML) to manage users, time slots and billing.
+· MS Admission Dashboard -- Full-stack web system (HTML/CSS/JS, PHP, MySQL) automating
+
+    graduate-specialization assignment via score-based backend logic.
+
+TECHNICAL SKILLS
+
+· Game Engines: Unity (2D/3D), Unreal Engine
+· Game Development: Gameplay Programming, Level Design, Multiplayer, Animation, Lighting, Particle Systems,
+
+    Prefabs, Game Logic & Physics Simulation
+· AR/VR: Meta Quest VR SDK, AR Foundation, ARKit/ARCore concepts
+· Languages: C#, C++, Python
+· Web: HTML, CSS, JavaScript, React, Node.js, PHP, Laravel
+· Databases: MySQL, PostgreSQL
+· Tools & Concepts: Git/GitHub, Visual Studio, VS Code, XAMPP, OOP, Data Structures & Algorithms
+
+CERTIFICATIONS
+
+· Unreal Engine -- Centre of Excellence in Gaming and Animation (CEGA), Pakistan
+· Pre-Production -- Centre of Excellence in Gaming and Animation (CEGA), Pakistan
+· Post-Production -- Centre of Excellence in Gaming and Animation (CEGA), Pakistan
+· Introduction to Large Language Models -- Google Cloud
+· Introduction to Generative AI -- Google Cloud
+· Introduction to Responsible AI -- Google Cloud
+· Database Design -- Oracle Academy
+
+WORKSHOPS, SEMINARS & CONFERENCES
+
+· "3D Modelling with Blender" -- Hands-on workshop, TechFest '25, CSIT, NED University -- covered fundamentals
+    of 3D design and animation in Blender, applied in game development and digital art.
+
+· "Code to Create v1.1: Using Gemini to Rapidly Prototype MVPs" -- GDG Kolachi session, National Incubation
+    Center (NIC), Karachi -- hands-on MVP-building workshop using Firebase Studio, Lovable, and Google Cloud
+    Console; team-built a prototype for an on-demand home-services booking platform.
+
+· "Unlocking the Power of Explainable AI (XAI)" -- Seminar, Data Insight-CSIT, NED University.
+· "Professional Ethics" -- Seminar, NED University -- speaker: Hyder Mirza, CEO, CloudJunction Advisors (31 Aug
+
+    2026).
+
+VOLUNTEERING
+
+· Promotion Team Member, SOFE Society, NED University.
+
+EXTRACURRICULAR & SOCIETY INVOLVEMENT
+
+· Creativity Member -- GameVerse, CSIT, NED University
+· Generative AI Member -- DataInsight, CSIT, NED University
+· Event Management Member -- TECHFEST, CSIT, NED University
+· Photography Member -- NAS (Society), NED University
+· Operations Team Member -- TNF, NED University
+
+AREAS OF EXPERTISE
+
+Game Development, Gameplay Programming, Multiplayer Games, VR/AR/XR, AI in Gaming
+LANGUAGES & SOFT SKILLS
+
+· Languages: English (Professional Proficiency), Urdu (Native)
+· Soft Skills: Problem-Solving & Analytical Thinking, Team Collaboration, Time Management, Communication
+

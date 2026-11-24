@@ -1,0 +1,19 @@
+font ok: SegoeUIBlack
+font ok: SegoeUI-Bold
+font ok: SegoeUI-Semibold
+font ok: SegoeUI
+font ok: Bahnschrift-BoldCondensed
+Bahnschrift styles: Bahnschrift-LightCondensed, Bahnschrift-LightSemiCondensed, Bahnschrift-Light, Bahnschrift-SemiLightCondensed, Bahnschrift-SemiLightSemiCondensed, Bahnschrift-SemiLight, Bahnschrift-Condensed, Bahnschrift-SemiCondensed, Bahnschrift, Bahnschrift-SemiBoldCondensed, Bahnschrift-SemiBoldSemiCondensed, Bahnschrift-SemiBold, Bahnschrift-BoldCondensed, Bahnschrift-BoldSemiCondensed, Bahnschrift-Bold
+clip unbroken-oath dur=30.00 854x480
+clip mask-regime dur=30.00 854x480
+clip abduction dur=14.97 854x480
+clip escape-room-vr dur=15.05 854x480
+clip germ-endless-runner dur=15.06 854x480
+clip spike-rush dur=15.06 854x480
+clip multiplayer-ludo dur=14.97 854x480
+clip snake-game dur=17.80 854x480
+music dur=130.131428571429
+OM templates: AIFF 48kHz | Alpha Only | H.264 - Match Render Settings -  5 Mbps | H.264 - Match Render Settings - 15 Mbps | H.264 - Match Render Settings - 40 Mbps | High Quality | High Quality with Alpha | Lossless | Lossless with Alpha | Multi-Machine Sequence | Photoshop | TIFF Sequence with Alpha | _HIDDEN X-Factor 16 | _HIDDEN X-Factor 16 Premul | _HIDDEN X-Factor 32 | _HIDDEN X-Factor 32 Premul | _HIDDEN X-Factor 8 | _HIDDEN X-Factor 8 Premul
+OM picked: H.264 - Match Render Settings -  5 Mbps
+saved project
+done
